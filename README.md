@@ -3,7 +3,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&pause=400&color=33FF33&center=true&vCenter=true&width=700&lines=C%3A%5C%3E+BOOT+SEQUENCE+COMPLETE;C%3A%5C%3E+LOADING+Yasser Ibrahim...;C%3A%5C%3E+ROLE%3A+Engenheiro de Software;C%3A%5C%3E+STATUS%3A+ONLINE+✓;C%3A%5C%3E+READY_" alt="Yasser Ibrahim"/>
+<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=38&pause=400&color=33FF33&center=true&vCenter=true&width=700&lines=C%3A%5C%3E+BOOT+SEQUENCE+COMPLETE;C%3A%5C%3E+LOADING+Yasser%20Ibrahim...;C%3A%5C%3E+ROLE%3A+Engenheiro%20de%20Software;C%3A%5C%3E+STATUS%3A+ONLINE+%E2%9C%93;C%3A%5C%3E+READY_" alt="Yasser Ibrahim"/>
 </div>
 
 ## ⌨️ Sobre mim
